@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.wping.component.apisign.configuration.ApiSignConfiguration,\
+  com.wping.component.apisign.configuration.ApiSignVerifyConfiguration
