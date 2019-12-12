@@ -16,6 +16,7 @@
 
     <modules>
         <module>component-apisign</module>
+        <module>component-authorizer</module>
     </modules>
 
     <properties>
