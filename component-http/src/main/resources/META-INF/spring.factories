@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  com.wping.component.base.configuration.BaseConfiguration
+  com.wping.component.http.configuration.HttpClientConfiguration

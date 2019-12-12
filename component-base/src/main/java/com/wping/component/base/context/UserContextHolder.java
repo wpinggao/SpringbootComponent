@@ -44,12 +44,12 @@ public class UserContextHolder {
         return null;
     }
 
-    public static WpingToken getPrototypeToken() {
+    public static WpingToken getToken() {
         Object value = get(CommonConstants.WPING_CLIENT_TOKEN);
         return (value == null ? null : (WpingToken) value);
     }
 
-    public static void setPrototypeToken(WpingToken wpingToken) {
+    public static void setToken(WpingToken wpingToken) {
         set(CommonConstants.WPING_CLIENT_TOKEN, wpingToken);
     }
 

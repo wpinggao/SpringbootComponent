@@ -12,7 +12,7 @@ import org.springframework.context.annotation.Configuration;
  * @date 2019/01/25
  */
 @Configuration
-public class PrototypeLogConfiguration {
+public class BaseConfiguration {
 
     @Bean
     public static BeanFactoryHelper beanFactoryHelper() {
