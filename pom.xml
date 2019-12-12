@@ -18,6 +18,7 @@
         <module>component-base</module>
         <module>component-apisign</module>
         <module>component-authorizer</module>
+        <module>component-http</module>
     </modules>
 
     <properties>

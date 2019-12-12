@@ -24,7 +24,7 @@ public class HttpClientProperties {
     // 数据传输的最长时间
     private Integer socketTimeout = 30000;
     // 代理主机
-    private String proxyHost = "proxy-public.intsit.sfdc.com.cn";
+    private String proxyHost = "proxy-public";
 
     public Integer getMaxTotal() {
         return maxTotal;
