@@ -15,6 +15,7 @@
     <packaging>pom</packaging>
 
     <modules>
+        <module>component-base</module>
         <module>component-apisign</module>
         <module>component-authorizer</module>
     </modules>
