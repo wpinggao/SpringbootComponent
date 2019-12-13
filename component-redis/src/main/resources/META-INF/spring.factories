@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.wping.component.redis.configuration.WpingRedisConfiguration,\
+  com.wping.component.redis.configuration.WpingRedisCacheConfiguration

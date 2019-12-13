@@ -20,6 +20,7 @@
         <module>component-authorizer</module>
         <module>component-http</module>
         <module>component-jwt</module>
+        <module>component-redis</module>
     </modules>
 
     <properties>
