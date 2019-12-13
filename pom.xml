@@ -21,6 +21,7 @@
         <module>component-http</module>
         <module>component-jwt</module>
         <module>component-redis</module>
+        <module>component-distributeid</module>
     </modules>
 
     <properties>
