@@ -12,7 +12,7 @@ public @interface RedisDistributeLock {
 
     /**
      * 锁的key
-     * redis key的拼写规则为 @prototypeRedisProperties.getPrefix() + "DLK:" + lockKey + ":" + @DistRedisLockKey
+     * redis key的拼写规则为 @WpingRedisProperties.getPrefix() + "DLK:" + lockKey + ":" + @DistRedisLockKey
      */
     String lockKey();
 

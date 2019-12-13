@@ -13,3 +13,5 @@ component-redis redis组件，基于redisson包装基于注解的分布式锁、
 
 component-distributeid 分布式ID组件
 
+component-shield 防攻击组件(shield):支持xss攻击，文件头魔数验证
+

@@ -24,7 +24,7 @@ public class WpingJwtConfiguration {
     private WpingJwtProperties wpingJwtProperties;
 
     @Bean
-    public WpingJwtService prototypeJwtService() {
+    public WpingJwtService wpingJwtService() {
         try {
             return new WpingJwtService(wpingJwtProperties, Keys.hmacShaKeyFor(wpingJwtProperties.getSecret().getBytes("UTF-8")));
         } catch (UnsupportedEncodingException e) {

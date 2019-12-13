@@ -12,7 +12,6 @@ public class RedisKeyConstants {
 
     public static final String PHONE_TOKEN = "PTK:";
 
-    public static final String PROTOTYPE_TOKEN = "PTTK:";
 
 
 
