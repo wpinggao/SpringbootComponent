@@ -3,21 +3,22 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <groupId>com.wping</groupId>
+        <groupId>com.github.wpinggao</groupId>
         <artifactId>component-parent</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
-    <groupId>com.wping</groupId>
+    <groupId>com.github.wpinggao</groupId>
     <artifactId>component-wechat</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>component-wechat</name>
+    <packaging>jar</packaging>
 
     <properties>
     </properties>
 
     <dependencies>
         <dependency>
-            <groupId>com.wping</groupId>
+            <groupId>com.github.wpinggao</groupId>
             <artifactId>component-http</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
