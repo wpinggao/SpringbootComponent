@@ -23,6 +23,7 @@
         <module>component-redis</module>
         <module>component-distributeid</module>
         <module>component-shield</module>
+        <module>component-wechat</module>
     </modules>
 
     <properties>
