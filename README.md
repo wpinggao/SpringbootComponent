@@ -15,3 +15,5 @@ component-distributeid 分布式ID组件
 
 component-shield 防攻击组件(shield):支持xss攻击，文件头魔数验证
 
+component-wechat 微信开发平台（扫码登陆等）
+
