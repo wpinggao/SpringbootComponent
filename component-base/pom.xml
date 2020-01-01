@@ -9,7 +9,7 @@
     </parent>
     <groupId>com.github.wpinggao</groupId>
     <artifactId>component-base</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>component-base</name>
     <packaging>jar</packaging>
 
