@@ -23,12 +23,7 @@ import java.time.Duration;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * describe:
- *
- * @author Wping.gao 01381946
- * @date 2019/8/2 11:07
- */
+
 @Configuration
 @EnableConfigurationProperties({WpingRedisCacheProperties.class})
 @ConditionalOnProperty(prefix = WpingRedisCacheProperties.PREFIX, name = "enabled", havingValue = "true")

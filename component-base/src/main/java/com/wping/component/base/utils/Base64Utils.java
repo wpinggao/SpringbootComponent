@@ -5,12 +5,6 @@ import org.slf4j.LoggerFactory;
 
 import java.util.Base64;
 
-/**
- * describe:
- *
- * @author Wping.gao 01381946
- * @date 2019/10/2 16:52
- */
 public class Base64Utils {
 
     private static final Logger logger = LoggerFactory.getLogger(Base64Utils.class);
