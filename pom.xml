@@ -24,6 +24,7 @@
         <module>component-distributeid</module>
         <module>component-shield</module>
         <module>component-wechat</module>
+        <module>component-dislogtracing</module>
     </modules>
 
     <properties>

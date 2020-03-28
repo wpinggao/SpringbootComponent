@@ -12,4 +12,5 @@ public class CommonConstants {
      */
     public static final String TRACE_ID_HEADER_NAME = "wping-trace-id";
 
+    public static final String TRACE_ID = "traceId";
 }

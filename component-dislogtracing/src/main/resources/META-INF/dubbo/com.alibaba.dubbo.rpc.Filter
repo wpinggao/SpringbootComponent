@@ -1,0 +1,2 @@
+providerRpcTraceFilter=com.wping.component.dislogtracing.filter.ProviderRpcTraceFilter
+consumerRpcTraceFilter=com.wping.component.dislogtracing.filter.ConsumerRpcTraceFilter
